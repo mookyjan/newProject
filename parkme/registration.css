@@ -1,0 +1,39 @@
+
+.form1 input {
+	height: 30px;
+	width: 300px;
+}
+.form_div input {
+	margin-bottom: 10px;
+	font-size: 14px;
+	margin-left: 20px;
+}
+label {
+	display: inline-block;
+	/**display: inline; */   
+	zoom: 1;
+	padding-top: 5px;
+	text-align: right;
+	width: 140px
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+}
+li {
+	float: left;
+}
+li a {
+	display: block;
+	color: green;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+li a:hover {
+	background-color:#000000;
+}
+

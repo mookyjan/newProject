@@ -1,0 +1,32 @@
+
+h1 {
+	color:#F9F9F9;
+	font-size: 100px;
+	padding-top: 300px;
+	padding-left: 120px;
+}
+.registration {
+	width: 120px;
+	height: 50px;
+}
+.login {
+	width: 100px;
+	height: 50px;
+}
+.button_div {
+	float: right;
+	margin-right: 30px;
+	margin-top: -50px;
+}
+.registration a {
+	text-decoration: none;
+	background-color: #EDE8E8;
+	color: #938F8F;
+	font-size: 18px;
+}
+.login a {
+	text-decoration: none;
+	background-color: #EDE8E8;
+	color: #938F8F;
+	font-size: 18px;
+}
